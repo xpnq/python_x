@@ -1,0 +1,14 @@
+[
+    {
+      "init_script": "/home/seshurajup/services/entrsrch/semantics.py"
+    },
+    {
+      "init_script": "/home/seshurajup/services/entrsrch/taxonomy.py"
+    },
+    {
+      "init_script": "/home/seshurajup/services/entrsrch/tagging.py"
+    },
+    {
+      "init_script": "/home/seshurajup/services/entrsrch/querytranslator.py"
+    }
+  ]
