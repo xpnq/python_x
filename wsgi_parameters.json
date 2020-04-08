@@ -1,0 +1,17 @@
+[{
+        "api_name": "mlservice",
+        "user": "apache",
+        "group": "root",
+        "threads": 30,
+        "processes": 3,
+        "init_script": "/var/www/wsgi/FlaskApp/mlservice.py"
+    },
+    {
+        "api_name": "amlservice",
+        "user": "apache",
+        "group": "root",
+        "threads": 30,
+        "processes": 3,
+        "init_script": "/var/www/wsgi/AFlaskApp/amlservice.py"
+    }
+]
